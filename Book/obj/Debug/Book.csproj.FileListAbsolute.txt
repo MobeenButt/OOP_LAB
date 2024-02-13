@@ -1,0 +1,7 @@
+D:\OOP\oopLAB\Lab\LAB4\Book\obj\Debug\Book.csproj.AssemblyReference.cache
+D:\OOP\oopLAB\Lab\LAB4\Book\obj\Debug\Book.csproj.CoreCompileInputs.cache
+D:\OOP\oopLAB\Lab\LAB4\Book\bin\Debug\Book.exe.config
+D:\OOP\oopLAB\Lab\LAB4\Book\bin\Debug\Book.exe
+D:\OOP\oopLAB\Lab\LAB4\Book\bin\Debug\Book.pdb
+D:\OOP\oopLAB\Lab\LAB4\Book\obj\Debug\Book.exe
+D:\OOP\oopLAB\Lab\LAB4\Book\obj\Debug\Book.pdb
