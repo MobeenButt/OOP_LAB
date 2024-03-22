@@ -1,0 +1,7 @@
+D:\OOP\oopLAB\Lab\LAB10\Ch4\Ch4\obj\Debug\Ch4.csproj.AssemblyReference.cache
+D:\OOP\oopLAB\Lab\LAB10\Ch4\Ch4\obj\Debug\Ch4.csproj.CoreCompileInputs.cache
+D:\OOP\oopLAB\Lab\LAB10\Ch4\Ch4\bin\Debug\Ch4.exe.config
+D:\OOP\oopLAB\Lab\LAB10\Ch4\Ch4\bin\Debug\Ch4.exe
+D:\OOP\oopLAB\Lab\LAB10\Ch4\Ch4\bin\Debug\Ch4.pdb
+D:\OOP\oopLAB\Lab\LAB10\Ch4\Ch4\obj\Debug\Ch4.exe
+D:\OOP\oopLAB\Lab\LAB10\Ch4\Ch4\obj\Debug\Ch4.pdb
