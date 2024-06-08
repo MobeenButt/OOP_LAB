@@ -1,2 +1,0 @@
-D:\OOP\oopLAB\Lab\LAB4\OOP_LAB\UAMS\obj\Debug\UAMS.csproj.AssemblyReference.cache
-D:\OOP\oopLAB\Lab\LAB4\OOP_LAB\UAMS\obj\Debug\UAMS.csproj.CoreCompileInputs.cache

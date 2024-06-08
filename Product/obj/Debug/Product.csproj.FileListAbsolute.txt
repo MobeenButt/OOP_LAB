@@ -1,0 +1,7 @@
+D:\OOP\oopLAB\Lab\LAB5\Product\bin\Debug\Product.exe.config
+D:\OOP\oopLAB\Lab\LAB5\Product\bin\Debug\Product.exe
+D:\OOP\oopLAB\Lab\LAB5\Product\bin\Debug\Product.pdb
+D:\OOP\oopLAB\Lab\LAB5\Product\obj\Debug\Product.csproj.AssemblyReference.cache
+D:\OOP\oopLAB\Lab\LAB5\Product\obj\Debug\Product.csproj.CoreCompileInputs.cache
+D:\OOP\oopLAB\Lab\LAB5\Product\obj\Debug\Product.exe
+D:\OOP\oopLAB\Lab\LAB5\Product\obj\Debug\Product.pdb
