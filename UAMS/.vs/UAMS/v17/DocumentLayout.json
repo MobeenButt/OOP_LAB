@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OOP\\oopLAB\\Lab\\LAB4\\OOP_LAB\\UAMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08145D4A-4FA4-4195-8D91-D7AA94D97AA9}|UAMS.csproj|D:\\OOP\\oopLAB\\Lab\\LAB4\\OOP_LAB\\UAMS\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08145D4A-4FA4-4195-8D91-D7AA94D97AA9}|UAMS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08145D4A-4FA4-4195-8D91-D7AA94D97AA9}|UAMS.csproj|D:\\OOP\\oopLAB\\Lab\\LAB4\\OOP_LAB\\UAMS\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08145D4A-4FA4-4195-8D91-D7AA94D97AA9}|UAMS.csproj|solutionrelative:subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08145D4A-4FA4-4195-8D91-D7AA94D97AA9}|UAMS.csproj|D:\\OOP\\oopLAB\\Lab\\LAB4\\OOP_LAB\\UAMS\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08145D4A-4FA4-4195-8D91-D7AA94D97AA9}|UAMS.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08145D4A-4FA4-4195-8D91-D7AA94D97AA9}|UAMS.csproj|d:\\oop\\ooplab\\lab\\lab4\\oop_lab\\uams\\degreeprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08145D4A-4FA4-4195-8D91-D7AA94D97AA9}|UAMS.csproj|solutionrelative:degreeprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "D:\\OOP\\oopLAB\\Lab\\LAB4\\OOP_LAB\\UAMS\\Subject.cs",
+              "RelativeDocumentMoniker": "Subject.cs",
+              "ToolTip": "D:\\OOP\\oopLAB\\Lab\\LAB4\\OOP_LAB\\UAMS\\Subject.cs",
+              "RelativeToolTip": "Subject.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-14T17:10:27.179Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DegreeProgram.cs",
+              "DocumentMoniker": "D:\\OOP\\oopLAB\\Lab\\LAB4\\OOP_LAB\\UAMS\\DegreeProgram.cs",
+              "RelativeDocumentMoniker": "DegreeProgram.cs",
+              "ToolTip": "D:\\OOP\\oopLAB\\Lab\\LAB4\\OOP_LAB\\UAMS\\DegreeProgram.cs",
+              "RelativeToolTip": "DegreeProgram.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAUwC0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-14T17:10:00.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\OOP\\oopLAB\\Lab\\LAB4\\OOP_LAB\\UAMS\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "D:\\OOP\\oopLAB\\Lab\\LAB4\\OOP_LAB\\UAMS\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAmwEAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-14T17:09:31.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\OOP\\oopLAB\\Lab\\LAB4\\OOP_LAB\\UAMS\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\OOP\\oopLAB\\Lab\\LAB4\\OOP_LAB\\UAMS\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwBYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-14T17:08:41.655Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

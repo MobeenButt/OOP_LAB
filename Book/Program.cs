@@ -7,7 +7,7 @@ namespace Book
         static void Main(string[] args)
         {
 
-            // Declare an array of 100 
+            // Declaring an array of 100 
             book[] books = new book[100];
 
             // Testing 

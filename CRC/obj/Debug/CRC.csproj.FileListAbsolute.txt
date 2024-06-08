@@ -1,0 +1,7 @@
+D:\OOP\oopLAB\Lab\LAB4\OOP_LAB\CRC\bin\Debug\CRC.exe.config
+D:\OOP\oopLAB\Lab\LAB4\OOP_LAB\CRC\bin\Debug\CRC.exe
+D:\OOP\oopLAB\Lab\LAB4\OOP_LAB\CRC\bin\Debug\CRC.pdb
+D:\OOP\oopLAB\Lab\LAB4\OOP_LAB\CRC\obj\Debug\CRC.csproj.AssemblyReference.cache
+D:\OOP\oopLAB\Lab\LAB4\OOP_LAB\CRC\obj\Debug\CRC.csproj.CoreCompileInputs.cache
+D:\OOP\oopLAB\Lab\LAB4\OOP_LAB\CRC\obj\Debug\CRC.exe
+D:\OOP\oopLAB\Lab\LAB4\OOP_LAB\CRC\obj\Debug\CRC.pdb
